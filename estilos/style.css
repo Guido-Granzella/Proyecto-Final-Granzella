@@ -32,8 +32,8 @@ footer {
   padding: 0.5em 0em 0.5em 0em;
   margin-top: 2em;
   text-align: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#6cc5d9), to(#083359));
-  background-image: linear-gradient(to bottom, #6cc5d9, #083359);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#083359), to(#083359));
+  background-image: linear-gradient(to bottom, #083359, #083359);
 }
 
 footer p {
